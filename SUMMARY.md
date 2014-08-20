@@ -1,9 +1,9 @@
-# Summary
+# Summary  
 
 * [ভূমিকা](README.md)
 * [ডিজাইন প্যাটার্ন](design_patterns/introduction.md)
    * [স্ট্র্যাটেজি প্যাটার্ন](design_patterns/strategy_pattern.md)
-   * [প্রোটোটাইপ প্যাটার্ন](.md)
+   * [প্রোটোটাইপ প্যাটার্ন](#)
    * [এডাপ্টার প্যাটার্ন](#)
    * [Iterator ডিজাইন প্যাটার্ন](#)
    * [চেইন অফ রেন্সপন্সিবিলিটি](#)

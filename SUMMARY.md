@@ -5,7 +5,7 @@
    * [স্ট্র্যাটেজি প্যাটার্ন](design_patterns/strategy_pattern.md)
    * [প্রোটোটাইপ প্যাটার্ন](design_patterns/prototype_pattern.md)
    * [এডাপ্টার প্যাটার্ন](design_patterns/adapter_pattern.md)
-   * [Iterator ডিজাইন প্যাটার্ন](#)
+   * [Iterator ডিজাইন প্যাটার্ন](design_patterns/iterator_pattern.md)
    * [চেইন অফ রেন্সপন্সিবিলিটি](#)
    * [অবজারভার প্যাটার্ন](#)
    * [সিঙ্গেলটন প্যাটার্ন](#)

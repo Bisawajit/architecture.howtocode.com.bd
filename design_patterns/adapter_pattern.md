@@ -59,7 +59,7 @@ public class CalculatorAdapter
             _calculator =new Calculator();
         }
  
-        public int GetTotalSum(List numbers)
+        public int GetTotalSum(List<int> numbers)
         {
             int sum = _calculator.GetSum(numbers.ToArray());
             return sum;
@@ -79,7 +79,7 @@ class Program
         static void Main(string[] args)
         {
             CalculatorAdapter calculator = new CalculatorAdapter();
-            List numbers = new List { 1, 2, 3, 4, 5 };
+            List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
             var sum = calculator.GetTotalSum(numbers);
             Console.WriteLine(sum);
         }

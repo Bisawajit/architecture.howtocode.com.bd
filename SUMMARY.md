@@ -7,7 +7,7 @@
    * [এডাপ্টার প্যাটার্ন](design_patterns/adapter_pattern.md)
    * [Iterator ডিজাইন প্যাটার্ন](design_patterns/iterator_pattern.md)
    * [চেইন অফ রেন্সপন্সিবিলিটি](design_patterns/chain_of_responsibility.md)
-   * [অবজারভার প্যাটার্ন](#)
+   * [অবজারভার প্যাটার্ন](design_patterns/observer_pattern.md)
    * [সিঙ্গেলটন প্যাটার্ন](#)
    * [ভিজিটর ডিজাইন প্যাটার্ন](#)
    * [ফ্লাইওয়েট প্যাটার্ন](#)
